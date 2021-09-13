@@ -16,3 +16,25 @@ Sergio, Hannah, Regallager, Reliefpfeiler, Rentner
 Versuche diese Sätze umzukehren.
 Ella mag alle Bohnen   // han nesaH has ennaH
  */
+
+/* 
+let name1 = [
+    "Sergio", "Hannah", "Regallager", "Reliefpfeiler", "Rentner"
+]
+console.log(name1.reverse()) 
+*/
+
+
+function umdrehen(s) {
+    return s.split("").reverse().join("");
+}
+
+console.log(umdrehen("Sergio, Hannah, Regallager, Reliefpfeiler, Rentner, Ella mag alle Bohnen, han nesaH has ennaH, Nie Solo sein "))
+
+
+/*
+CHEN
+function reverseName(param) {
+    console.log(reverse())
+}
+names = ["Sergio, Hannah, Regallager, Reliefpfeiler, Rentner"] */

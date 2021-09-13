@@ -80,7 +80,3 @@ Bonus:
     -   Ella mag alle Bohnen // han nesaH has ennaH
 
 ---
-
-_Source:_ https://github.com/Ninni-cfm/day47_Lev1_js-vertiefung_array_part2
-
-_Demo:_ https://ninni-cfm.github.io/day47_Lev1_js-vertiefung_array_part2/

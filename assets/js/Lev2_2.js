@@ -16,9 +16,10 @@ Um den sort() Befehl besser zu verstehen, schau dir dieses Video an.
  */
 
 let numArray2 = [36, 324, 122, 62, 98, 88, 99, 1000];
-console.log(numArray2)
 
-let sortierung2 = numArray2.sort()
-console.log(sortierung2)
+function sortieren(a,b){
+    return a - b   
+}
 
-console.log(sortierung2.reverse())
+console.log(numArray2.sort(sortieren))
+
